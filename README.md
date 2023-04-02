@@ -1,3 +1,3 @@
 # JavaScript Project
 
-This repository are basically containing some of my JavaScript Project I had done
+This repository is basically containing some of my JavaScript Project I had done
