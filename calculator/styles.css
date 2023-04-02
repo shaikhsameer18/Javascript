@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.formstyle {
+    width: 300px;
+    height: 330px;
+    margin: 20px auto;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(102, 97, 97);
+}
+
+h1 {
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 23px;
+    background-color: black;
+    color: white;
+}
+
+input:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+.btn {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(255, 80, 17);
+    color: white;
+
+
+}
+
+.textview {
+    width: 223px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightblue;
+}

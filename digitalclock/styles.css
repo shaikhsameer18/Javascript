@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.container {
+  font-family: 'Alkatra', cursive;
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.border {
+  border: 5px solid white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+#title {
+  font-family: 'Alkatra', cursive;
+  margin: 20px;
+}
